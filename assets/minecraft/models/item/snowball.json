@@ -1,0 +1,23 @@
+{
+	"credit": "Model By GCGames Studios",
+	"textures": {
+		"0": "items/gold_block",
+		"particle": "items/gold_block"
+	},
+	"elements": [
+		{
+			"from": [9.375, 9.5, 7.625],
+			"to": [9.875, 10, 10.875],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.625, 9.75, 9.25]},
+			"faces": {
+				"north": {"uv": [11, 1, 12.25, 2], "texture": "#0"},
+				"east": {"uv": [11, 1, 12.25, 2], "texture": "#0"},
+				"south": {"uv": [11, 1, 12.25, 2], "texture": "#0"},
+				"west": {"uv": [11, 1, 12.25, 2], "texture": "#0"},
+				"up": {"uv": [11, 1, 12.25, 2], "texture": "#0"},
+				"down": {"uv": [11, 1, 12.25, 2], "texture": "#0"}
+			}
+		}
+	],
+	"display": {}
+}
